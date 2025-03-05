@@ -85,7 +85,7 @@ To send the report every day at 8 AM, add this to crontab:
 ---
 
 ## 📃 License
-MIT License © 2025 Kiran Kumar 
+MIT License © 2025 
 
 ---
 
